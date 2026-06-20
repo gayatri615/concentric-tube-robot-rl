@@ -44,7 +44,7 @@ $$\text{Base Reward} = 400 \cdot (d_{\text{old}} - d_{\text{new}}) - 250 \cdot d
 
 ## Performance Indicators & Validation Results
 <p align="center">
-  <img src="(https://github.com/gayatri615/concentric-tube-robot-rl/blob/main/output_graph.png?raw=true)" width="600" title="CTR Path Performance Summary">
+  <img src="https://github.com/gayatri615/concentric-tube-robot-rl/blob/main/output_graph.png?raw=true" width="600" title="CTR Path Performance Summary">
 </p>
 
 * **Accuracy of Steady-State Trajectory Tracking:** Provides **sub-millimeter level of accuracy ($< 1.5\text{mm}$ error trajectory tracking)** beyond the clinical requirements of ($< 2.0\text{mm}$) for peripheral lung biopsies.
